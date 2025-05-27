@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>To-Do List</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <h1>To-Do List</h1>
+
+    <div class="input-section">
+      <input type="text" id="task-input" placeholder="Enter a new task..." />
+      <button id="add-task-btn">Add</button>
+    </div>
+
+    <!-- Inline messages -->
+    <p id="error-msg" style="color: red; margin: 0 0 10px 0;"></p>
+    <p id="status-msg" style="color: green; margin: 0 0 10px 0;"></p>
+
+    <!-- Task List -->
+    <ul id="task-list"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
