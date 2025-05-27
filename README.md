@@ -55,7 +55,7 @@ GitHub Pages
 
 ## Demo
 
-You can try the app by opening `index.html` in your browser.
+
 Try the live demo here: [To-Do List App Demo](https://ImYash-J.github.io/to-do-list)
 ---
 
