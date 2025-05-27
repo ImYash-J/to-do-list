@@ -36,14 +36,15 @@ Use the ✗ button to delete a task.
 ![To-Do List Screenshot](to-do-list-6.png)
 
 ---
-Technologies Used
+## Technologies Used
+
 HTML5
 
 CSS3
 
 JavaScript (ES6+)
 
-Tools Used
+## Tools Used
 
 Visual Studio Code
 
